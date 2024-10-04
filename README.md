@@ -21,3 +21,6 @@
 17. Create a new file .gitignore and add node_modules
 18. Stage, and commit your changes.
 19. Push your changes (git push -u origin [firstname_lastname])
+
+# System Integration and Architecture
+NPM and GIT activity Author: Neo Hernandez
